@@ -26,4 +26,4 @@ The core of the project is contained within the Jupyter Notebook:
 
 ## Prerequisites & Installation
 Install the dependencies using `pip`:
-pip install requirements.txt
+`pip install requirements.txt`
