@@ -8,7 +8,7 @@ To solve this, this project implements a **Hybrid ARIMA-XGBoost Model**:
 2. **XGBoost** (Extreme Gradient Boosting) is then trained on the residuals (errors) of the ARIMA model to capture complex, non-linear relationships.
 3. The final prediction is the combination of the ARIMA forecast and the XGBoost residual prediction.
 
-## 🗂 Project Structure
+## Project Structure
 The core of the project is contained within the Jupyter Notebook:
 * `jollibee_stock_pred.ipynb`: The main notebook containing all code for data processing, modeling, and evaluation.
 
